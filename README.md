@@ -37,9 +37,4 @@ Modern backend mimarileri (.NET Core, Onion Architecture, CQRS) ve ilişkisel ve
 
 ---
 
-### GitHub Faaliyet Özeti
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhavural316-create&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="GitHub İstatistikleri" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhavural316-create&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Kullanılan Diller" />
-</p>
